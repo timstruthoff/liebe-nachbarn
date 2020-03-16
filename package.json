@@ -1,0 +1,22 @@
+{
+  "name": "liebe-nachbarn",
+  "version": "1.0.0",
+  "description": "A webapp to help your neighbours during Corona.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timstruthoff/liebe-nachbarn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timstruthoff/liebe-nachbarn/issues"
+  },
+  "homepage": "https://github.com/timstruthoff/liebe-nachbarn#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
